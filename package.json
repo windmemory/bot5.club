@@ -36,7 +36,7 @@
     "@types/glob": "^7.1.1",
     "@types/image-size": "^0.8.0",
     "file-box": "^0.8.27",
-    "glob": "^7.1.4",
+    "glob": "^7.1.5",
     "image-size": "^0.8.0",
     "is-pr": "^1.1.0",
     "probe-image-size": "^5.0.0",
